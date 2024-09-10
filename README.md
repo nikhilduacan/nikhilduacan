@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Passionate about leveraging technology to build innovative solutions, I specialize in scalable web development with a focus on creating seamless user experiences. With a solid foundation in front-end development and certification in full-stack development, coupled with AWS expertise, I'm committed to pushing the boundaries of what's possible in the digital realm.
+
+
+
 <!--
 **nikhilduacan/nikhilduacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
