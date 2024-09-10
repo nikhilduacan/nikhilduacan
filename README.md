@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Passionate about leveraging technology to build innovative solutions, I specialize in scalable web development with a focus on creating seamless user experiences. With a solid foundation in front-end development and certification in full-stack development, coupled with AWS expertise, I'm committed to pushing the boundaries of what's possible in the digital realm.
-
+Full-stack Developer with 10+ years of experience in building dynamic applications using React,
+Node.js and modern javascript tools/frameworks. Committed to delivering high quality results
+and working collaboratively to deliver high-quality software solutions.
 
 
 <!--
