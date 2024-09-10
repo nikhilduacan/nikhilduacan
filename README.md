@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
 Full-stack Developer with 10+ years of experience in building dynamic applications using React,
 Node.js and modern javascript tools/frameworks. Committed to delivering high quality results
