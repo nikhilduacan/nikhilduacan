@@ -7,6 +7,10 @@ and working collaboratively to deliver high-quality software solutions.
 📫 How to reach me
 🔗 I have a personal website at xxx where all my social networks are located! You can reach me anywhere over there!
 
+💼 Skills
+📋 Languages
+CSS3 HTML5 JavaScript TypeScript
+
 <!--
 **nikhilduacan/nikhilduacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
