@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ## 👨‍💻 About Me
 
 Full-stack Developer with 10+ years of experience in building dynamic applications using React,
