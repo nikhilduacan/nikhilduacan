@@ -9,8 +9,8 @@ and working collaboratively to deliver high-quality software solutions.
 📫 How to reach me
 🔗 I have a personal website at xxx where all my social networks are located! You can reach me anywhere over there!
 
-##💼 Skills
-##📚 Frameworks, Platforms and Libraries                          |
+###💼 Skills
+###📚 Frameworks, Platforms and Libraries                          |
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
